@@ -36,7 +36,7 @@ Deep learning, a subset of machine learning that utilises artificial neural net
 
   
 
-!\[iedc\_a\_1909567\_f0001\_oc\](https://github.com/user-attachments/assets/0f1c13f7-d22d-40a7-b661-e60647d8ffcb)
+![iedc_a_1909567_f0001_oc](https://github.com/user-attachments/assets/0f1c13f7-d22d-40a7-b661-e60647d8ffcb)
 
 **Figure 1:** Diagram showing the transition between classical and modern methodologies for some relevant problems in drug discovery, such as QSAR/QSPR modeling, de novo drug design, and synthesis planning (**Jiménez-Luna *et al*., 2021**).
 
