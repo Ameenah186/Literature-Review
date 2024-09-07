@@ -2,9 +2,8 @@
 
 **Authors (@slack):** Popoola Opeyemi Emmanuel (@Emmanuel), Ameenat Oloko (@Ameenat), and Deborah Abolarinwa (@Achiever01).
 
-**Video Link:**
+**Video Link:** https://www.linkedin.com/posts/emmanuel-popoola-012a3229b_working-on-this-project-with-my-amazing-peers-activity-7238233042513739776-4N50?utm_source=share&utm_medium=member_desktop
 
-**GitHub Repository:**
 
 **Introduction**
 
